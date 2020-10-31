@@ -1,0 +1,21 @@
+li.card {
+  display: flex;
+  background-color: #fff;
+  border: 2px solid black;
+  padding: 1rem;
+}
+
+.pirate-info {
+  margin-left: 3rem;
+  flex: 1;
+}
+
+.pirate-name {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
